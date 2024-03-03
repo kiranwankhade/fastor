@@ -41,7 +41,7 @@ A login system where a user can simply fill in the mobile number on the 1st scre
 This project is deployed at https://fastor-pink.vercel.app/
 
 ## GitHub Repository
-The code for this project is available on GitHub at .
+The code for this project is available on GitHub at https://github.com/kiranwankhade/fastor
 
 ## Screenshots
 ![fastor1](https://github.com/kiranwankhade/fastor/assets/49937312/cac6924a-1e38-418f-bb16-a3fa9b7095cf)
