@@ -25,3 +25,8 @@ A login system where a user can simply fill in the mobile number on the 1st scre
 
    ```bash
    git clone <repository_url>
+   
+2. Install dependencies:
+
+  ```bash
+   npm install 
