@@ -38,7 +38,7 @@ A login system where a user can simply fill in the mobile number on the 1st scre
 4. Open http://localhost:3000 to view it in the browser.
 
 ## Deployment
-This project is deployed at .
+This project is deployed at https://fastor-pink.vercel.app/
 
 ## GitHub Repository
 The code for this project is available on GitHub at .
