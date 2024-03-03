@@ -1,0 +1,28 @@
+.imageCarousal {
+    margin: 0 auto;
+    margin-top: 12px;
+  }
+  
+  .slick-slide > div {
+    margin: 0 10px;
+  }
+  
+  .slick-list {
+    margin: 0 -10px;
+  }
+  
+  .imgcard {
+    width: 100%;
+    border-radius: 8px;
+    overflow: hidden;
+    height: 200px;
+    cursor: pointer;
+  }
+  
+  .imgcard-top > img {
+    width: 100%;
+    height: 100%; /* Adjust height to fill the container */
+    object-fit: cover; /* Cover to fill the container without stretching */
+    border-radius: 12px;
+  }
+  

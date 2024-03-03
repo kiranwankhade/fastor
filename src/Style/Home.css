@@ -1,0 +1,13 @@
+.offer{
+    background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(255,118,106,1) 0%, rgba(255,117,106,1) 0%, rgba(255,150,109,1) 70%);
+
+border-radius: 10px;
+}
+
+.wallet{
+    background: rgb(134,217,246);
+background: linear-gradient(63deg, rgba(134,217,246,1) 0%, rgba(81,126,204,1) 70%);
+
+border-radius: 10px;
+}
