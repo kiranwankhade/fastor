@@ -28,5 +28,10 @@ A login system where a user can simply fill in the mobile number on the 1st scre
    
 2. Install dependencies:
 
-  ```bash
-   npm install 
+     ```bash
+      npm install
+     
+3. Start the development server
+    ```bash
+      npm start
+
