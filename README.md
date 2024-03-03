@@ -38,10 +38,18 @@ A login system where a user can simply fill in the mobile number on the 1st scre
 4. Open http://localhost:3000 to view it in the browser.
 
 ## Deployment
-This project is deployed at deployment_link.
+This project is deployed at .
 
 ## GitHub Repository
-The code for this project is available on GitHub at repository_link.
+The code for this project is available on GitHub at .
 
 ## Screenshots
+![fastor1](https://github.com/kiranwankhade/fastor/assets/49937312/cac6924a-1e38-418f-bb16-a3fa9b7095cf)
 
+![fastor2](https://github.com/kiranwankhade/fastor/assets/49937312/91c69d35-fa4d-47e4-b77c-c6f6e1cbb46e)
+
+![fastor3](https://github.com/kiranwankhade/fastor/assets/49937312/919beb39-a22c-43dc-8f61-9c676678e32e)
+
+![fastor4](https://github.com/kiranwankhade/fastor/assets/49937312/a74b8513-dbe7-4681-993b-62ded427c9ce)
+
+![fastor5](https://github.com/kiranwankhade/fastor/assets/49937312/0b2e6a21-d6f4-45c4-b822-812106d33164)
