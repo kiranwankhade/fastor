@@ -34,4 +34,14 @@ A login system where a user can simply fill in the mobile number on the 1st scre
 3. Start the development server
     ```bash
       npm start
+    
+4. Open http://localhost:3000 to view it in the browser.
+
+## Deployment
+This project is deployed at deployment_link.
+
+## GitHub Repository
+The code for this project is available on GitHub at repository_link.
+
+## Screenshots
 
