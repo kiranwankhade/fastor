@@ -65,29 +65,7 @@ const SinglePage = () => {
       ) : (
         <>
           <Box display="flex" flexDirection="column">
-            {/* <Box position="relative" height="50vh" w={"100%"}>
-             
-             
-              <IconButton
-                position="absolute"
-                top="1rem"
-                left="1rem"
-                aria-label="Go Back"
-                color="white"
-                fontSize={"2rem"}
-                icon={<IoIosArrowBack />}
-                onClick={() => navigate("/home")}
-                variant="ghost"
-              />
-              <Image
-                src={itemDetail.images[0].url}
-                alt="Restaurant Image"
-                objectFit="cover"
-                height="100%"
-                width="100%"
-              />{" "}
-            </Box> */}
-
+      
             <Box
               position="relative"
               height={["50vh", "60vh", "60vh", "70vh"]}
